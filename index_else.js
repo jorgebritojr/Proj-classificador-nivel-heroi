@@ -1,4 +1,4 @@
-const nome = "Aventureiro"
+const nome = "Aventureiro-else"
 let xp = 3000
 let nivel = ""
 
